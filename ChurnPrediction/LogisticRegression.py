@@ -1,4 +1,4 @@
-#SIDDHARTH GUPTA, FOR NEURONEXUS INNOVATIONS
+#Ravi M Damor ,NeuroNexus Project
 
 # Here we import all the required libraries for our logistic regression model..
 import pandas as pd #for reading the dataset
