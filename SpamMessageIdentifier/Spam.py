@@ -1,3 +1,4 @@
+##Ravi M Damor ,NeuroNexus Project
 #importing the nessasary libraries fro our model..
 import pandas as pd # To analyse and open the dataset
 from sklearn.model_selection import train_test_split # For training and testing our data pieces..
