@@ -1,4 +1,4 @@
-#SIDDHARTH GUPTA, FOR NEURONEXUS INNOVATIONS
+#Ravi M Damor ,NeuroNexus Project
 
 import pandas as pd #to read the dataset..
 from sklearn.model_selection import train_test_split #to estabilish train and test set..
